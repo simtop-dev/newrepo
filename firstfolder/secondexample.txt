@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add some text in to create a conflict
+=======
+second example text file
+>>>>>>> 94099d8484fd2385f01ba6beae3c6a643cd59084
